@@ -1,7 +1,7 @@
 ```
 ╔═══════════════════════════════════════════════════════════════╗
-║  BASE DE DATOS DE CODIGOS DE AFILIADO — 2026                 ║
-║  Recopilacion de codigos verificados con pruebas reales      ║
+║  BASE DE DATOS DE CODIGOS DE AFILIADO — 2026                  ║
+║  Recopilacion de codigos verificados con pruebas reales       ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
