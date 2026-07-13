@@ -1,7 +1,9 @@
+```
 ╔═══════════════════════════════════════════════════════════════╗
 ║  BASE DE DATOS DE CODIGOS DE AFILIADO — 2026                 ║
 ║  Extraido de multiples fuentes internas                      ║
 ╚═══════════════════════════════════════════════════════════════╝
+```
 
 ¿Cuantas veces has visto un codigo de afiliado en internet y no sabes si realmente funciona?
 
